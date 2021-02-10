@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/net.png</file>
+        <file>sql/client.sql</file>
+        <file>sql/server.sql</file>
+        <file>img/setup.png</file>
+        <file>img/exit.png</file>
+        <file>img/run.png</file>
+        <file>img/stop.png</file>
+    </qresource>
+</RCC>
